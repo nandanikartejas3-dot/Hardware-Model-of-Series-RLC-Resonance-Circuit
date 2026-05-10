@@ -1,1 +1,0 @@
-# Hardware-Model-of-Series-RLC-Resonance-Circuit
