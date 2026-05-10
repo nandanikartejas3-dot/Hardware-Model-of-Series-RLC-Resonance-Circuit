@@ -56,12 +56,12 @@ This model is designed as an educational and experimental platform for understan
 
 > (Update the exact values if you want this section to look “complete” on GitHub.)
 
-- **Resistor (R)**: ____ Ω, ____ W  
-- **Inductor (L)**: ____ H (type: ____ )  
-- **Capacitors (C)**: multiple values (selectable via switches), ____ V rating  
+- **Resistor (R)**: __10_ Ω, __25__ W  
+- **Inductor (L)**: __1.79__ H   
+- **Capacitors (C)**: multiple values (selectable via switches), _400___ V rating  
 - **Switches**: toggle/DIP for capacitor selection  
 - **Measurement**: ammeter/multimeter (and DSO if available)  
-- **AC Source / Function Generator**: ____  
+- **AC Source / Function Generator**:  
 - **Trainer board / terminals / wiring**
 
 ---
